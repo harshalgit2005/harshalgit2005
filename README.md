@@ -55,22 +55,6 @@ I turn raw, messy data into clear business decisions. I specialize in SQL, Pytho
 
 ## 📁 Featured Analytics Projects
 
-### ⚽ Football Performance Analytics
-
-| | |
-|---|---|
-| **Business Problem** | Coaches and analysts needed a way to compare team and player performance across a season without digging through raw match logs. |
-| **Technologies** | Python, Pandas, SQL, Power BI |
-| **Key Insights** | Identified top-performing teams by points and goal difference, and surfaced match result trends that informed tactical discussion points. |
-| **GitHub** | [Repository](https://github.com/harshalgit2005/football-performance-analytics) — *confirm this repo name/link* |
-
-<p align="center">
-<!-- No screenshot found in repo yet — add a dashboard export here (images/football_dashboard.png) -->
-<img src="images/football_dashboard.png" width="100%">
-</p>
-
----
-
 ### 📉 Customer Churn Analysis
 
 | | |
@@ -80,39 +64,32 @@ I turn raw, messy data into clear business decisions. I specialize in SQL, Pytho
 | **Business Recommendations** | Focus retention offers on high-value, high-risk segments identified through the model, rather than blanket discounting. |
 | **GitHub** | [Repository](https://github.com/harshalgit2005/customer-churn-analysis-sql-python) |
 
-<p align="center">
-<!-- No screenshot found in repo yet — export a chart from churn_analysis.ipynb and add it here (images/churn_dashboard.png) -->
-<img src="images/churn_dashboard.png" width="100%">
-</p>
-
 ---
 
 ### 🛍️ Customer Behavior Analysis
 
 | | |
 |---|---|
-| **Insights** | Segmented customers by purchase frequency and basket size to identify high-value shopper groups. |
-| **Business Value** | Enabled more targeted marketing spend by highlighting which segments drive the most repeat revenue. |
+| **Insights** | Segmented customers by purchase frequency, subscription status, and category to identify high-value shopper groups. |
+| **Business Value** | Enabled more targeted marketing spend by highlighting which segments drive the most revenue and repeat purchases. |
 | **GitHub** | [Repository](https://github.com/harshalgit2005/customer-behavior-analysis) — *confirm this repo name/link* |
 
 <p align="center">
-<!-- No screenshot found — add dashboard image here (images/customer_behavior_dashboard.png) -->
-<img src="images/customer_behavior_dashboard.png" width="100%">
+<img src="images/customer_behavior_dashboard.jpeg" width="100%">
 </p>
 
 ---
 
-### ☕ Coffee Shop Sales Dashboard
+### 🤖 AI Personality Chatbot
 
 | | |
 |---|---|
-| **KPIs** | Total sales, average order value, peak sales hours, top-selling products |
-| **Business Insights** | Identified peak revenue hours and top products, supporting staffing and inventory decisions. |
-| **GitHub** | [Repository](https://github.com/harshalgit2005/coffee-shop-sales-dashboard) — *confirm this repo name/link* |
+| **Business Problem** | Demonstrates how conversational AI can adapt tone and response style based on selected mood/personality context. |
+| **Technologies** | Python, LangChain, Groq API |
+| **GitHub** | [Repository](https://github.com/harshalgit2005/ai-personality-chatbot) — *confirm this repo name/link* |
 
 <p align="center">
-<!-- No screenshot found — add dashboard image here (images/coffee_shop_dashboard.png) -->
-<img src="images/coffee_shop_dashboard.png" width="100%">
+<img src="images/ai_personality_chatbot.jpeg" width="100%">
 </p>
 
 ---
@@ -126,38 +103,20 @@ I turn raw, messy data into clear business decisions. I specialize in SQL, Pytho
 | **GitHub** | [Repository](https://github.com/harshalgit2005/mental-health-score-prediction) |
 
 <p align="center">
-<!-- No screenshot found in repo yet — add a screenshot of the live app here (images/mindpulse_app.png) -->
-<img src="images/mindpulse_app.png" width="100%">
+<img src="images/mindpulse_app.jpeg" width="100%">
 </p>
 
 ---
 
 ## 📊 Dashboard Gallery
 
-### Football Analytics
-
 <p align="center">
-<img src="images/league_analysis.png" width="48%">
-<img src="images/team_analysis.png" width="48%">
+<img src="images/customer_behavior_dashboard.jpeg" width="48%">
+<img src="images/mindpulse_app.jpeg" width="48%">
 </p>
 
 <p align="center">
-<img src="images/top_10_teams_by_points.png" width="48%">
-<img src="images/match_result_distribution.png" width="48%">
-</p>
-
-### Customer Churn
-
-<p align="center">
-<img src="images/churn_by_segment.png" width="48%">
-<img src="images/churn_kpi_summary.png" width="48%">
-</p>
-
-### Coffee Shop Sales
-
-<p align="center">
-<img src="images/coffee_sales_by_hour.png" width="48%">
-<img src="images/coffee_top_products.png" width="48%">
+<img src="images/ai_personality_chatbot.jpeg" width="48%">
 </p>
 
 ---
