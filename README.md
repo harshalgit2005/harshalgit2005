@@ -6,9 +6,9 @@ I turn raw, messy data into clear business decisions. I specialize in SQL, Pytho
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
-<a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white"></a>
+<a href="https://linkedin.com/in/harshalsaudagar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+<a href="mailto:harshalsaudagar2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+<a href="https://harshalsaudagar.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white"></a>
 </p>
 
 ---
@@ -62,9 +62,10 @@ I turn raw, messy data into clear business decisions. I specialize in SQL, Pytho
 | **Business Problem** | Coaches and analysts needed a way to compare team and player performance across a season without digging through raw match logs. |
 | **Technologies** | Python, Pandas, SQL, Power BI |
 | **Key Insights** | Identified top-performing teams by points and goal difference, and surfaced match result trends that informed tactical discussion points. |
-| **GitHub** | [Repository](https://github.com/YOUR-USERNAME/football-performance-analytics) |
+| **GitHub** | [Repository](https://github.com/harshalgit2005/football-performance-analytics) — *confirm this repo name/link* |
 
 <p align="center">
+<!-- No screenshot found in repo yet — add a dashboard export here (images/football_dashboard.png) -->
 <img src="images/football_dashboard.png" width="100%">
 </p>
 
@@ -77,9 +78,10 @@ I turn raw, messy data into clear business decisions. I specialize in SQL, Pytho
 | **Business Problem** | Subscription-based business needed to identify which customers were at risk of churning and why, to prioritize retention spend. |
 | **KPIs** | Churn rate, customer lifetime value, retention rate by segment |
 | **Business Recommendations** | Focus retention offers on high-value, high-risk segments identified through the model, rather than blanket discounting. |
-| **GitHub** | [Repository](https://github.com/YOUR-USERNAME/customer-churn-analysis) |
+| **GitHub** | [Repository](https://github.com/harshalgit2005/customer-churn-analysis-sql-python) |
 
 <p align="center">
+<!-- No screenshot found in repo yet — export a chart from churn_analysis.ipynb and add it here (images/churn_dashboard.png) -->
 <img src="images/churn_dashboard.png" width="100%">
 </p>
 
@@ -91,9 +93,10 @@ I turn raw, messy data into clear business decisions. I specialize in SQL, Pytho
 |---|---|
 | **Insights** | Segmented customers by purchase frequency and basket size to identify high-value shopper groups. |
 | **Business Value** | Enabled more targeted marketing spend by highlighting which segments drive the most repeat revenue. |
-| **GitHub** | [Repository](https://github.com/YOUR-USERNAME/customer-behavior-analysis) |
+| **GitHub** | [Repository](https://github.com/harshalgit2005/customer-behavior-analysis) — *confirm this repo name/link* |
 
 <p align="center">
+<!-- No screenshot found — add dashboard image here (images/customer_behavior_dashboard.png) -->
 <img src="images/customer_behavior_dashboard.png" width="100%">
 </p>
 
@@ -105,9 +108,10 @@ I turn raw, messy data into clear business decisions. I specialize in SQL, Pytho
 |---|---|
 | **KPIs** | Total sales, average order value, peak sales hours, top-selling products |
 | **Business Insights** | Identified peak revenue hours and top products, supporting staffing and inventory decisions. |
-| **GitHub** | [Repository](https://github.com/YOUR-USERNAME/coffee-shop-sales-dashboard) |
+| **GitHub** | [Repository](https://github.com/harshalgit2005/coffee-shop-sales-dashboard) — *confirm this repo name/link* |
 
 <p align="center">
+<!-- No screenshot found — add dashboard image here (images/coffee_shop_dashboard.png) -->
 <img src="images/coffee_shop_dashboard.png" width="100%">
 </p>
 
@@ -118,10 +122,11 @@ I turn raw, messy data into clear business decisions. I specialize in SQL, Pytho
 | | |
 |---|---|
 | **Tech Stack** | Python, FastAPI, Scikit-learn, HTML/CSS/JS |
-| **Live Demo** | [MindPulse](https://YOUR-LIVE-DEMO-LINK) |
-| **GitHub** | [Repository](https://github.com/YOUR-USERNAME/mindpulse) |
+| **Live Demo** | [MindPulse](https://mental-health-score-prediction-1-jdjx.onrender.com/) |
+| **GitHub** | [Repository](https://github.com/harshalgit2005/mental-health-score-prediction) |
 
 <p align="center">
+<!-- No screenshot found in repo yet — add a screenshot of the live app here (images/mindpulse_app.png) -->
 <img src="images/mindpulse_app.png" width="100%">
 </p>
 
@@ -184,12 +189,12 @@ Recommendations
 ## 📈 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&hide_border=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=harshalgit2005&show_icons=true&theme=default&hide_border=true" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshalgit2005&hide_border=true" width="48%">
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalgit2005&layout=compact&hide_border=true" width="48%">
 </p>
 
 ---
@@ -197,8 +202,8 @@ Recommendations
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-<a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/harshalsaudagar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://harshalsaudagar.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="https://github.com/harshalgit2005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="mailto:harshalsaudagar2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
