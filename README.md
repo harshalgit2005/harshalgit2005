@@ -1,61 +1,204 @@
-# 💫 Hi 👋, I'm Harshal Saudagar  
-**AI & Data Analyst | Generative AI | Machine Learning | Data Analytics | ETL | Automation | Data Visualization**
+<h1 align="center">Hi, I'm Harshal Saudagar 👋</h1>
+<h3 align="center">Data Analyst | Python | SQL | Power BI | Business Intelligence</h3>
 
-📩 **Email me:** ✉️ harshalsaudagar864@gmail.com  
-(Open for internships, collaborations, and project discussions)
+<p align="center">
+I turn raw, messy data into clear business decisions. I specialize in SQL, Python, and Power BI to build dashboards and analyses that answer one question: <b>"So what should we do about it?"</b> Currently looking for Data Analyst / Business Intelligence roles where I can turn data into measurable business impact.
+</p>
+
+<p align="center">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+<a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+## 👤 About Me
+
+- 🔭 **Currently Building:** A Power BI + SQL portfolio project pipeline that mirrors real business reporting workflows
+- 📚 **Currently Learning:** Advanced DAX, data modeling, and SQL query optimization
+- 🤝 **Looking to Collaborate On:** Business intelligence dashboards, EDA projects, and data storytelling case studies
+- 💬 **Ask Me About:** SQL query design, Power BI dashboard building, or turning a dataset into a business narrative
+- ⚡ **Fun Fact:** I'd rather spend an hour cleaning data than five minutes explaining a wrong number to a stakeholder
 
 ---
 
-- 🔭 **I’m currently working on:**  
-  AI-powered analytics projects, including **GenAI applications, data analytics dashboards, and automation workflows**
+## 🛠️ Tech Stack
 
-- 🌱 **I’m currently learning:**  
-  **Advanced Generative AI (RAG, LLMs), Machine Learning, SQL optimization, and Power BI**
+**Programming**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-- 👯 **I’m looking to collaborate on:**  
-  **AI/ML projects, GenAI applications, data analytics, computer vision, and real-world datasets**
+**Databases**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-- 🤔 **I’m looking for help with:**  
-  **Scaling GenAI solutions, model optimization, and production-level data pipelines**
+**Data Analysis**
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-- 💬 **Ask me about:**  
-  **Python, SQL, Machine Learning, Generative AI, RAG, Data Analysis, Power BI**
+**Visualization**
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-- 📫 **How to reach me:**  
-  **LinkedIn | GitHub | Email**
+**Machine Learning**
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-- ⚡ **Fun fact:**  
-  I enjoy turning raw data into meaningful insights and AI-driven solutions 🚀
-
-  ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=harshalgit2005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hvsaudagar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshalsaudagar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshalvalmiksaudagar2005@gmail.com) 
-
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harshalgit2005&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=harshalgit2005&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshalgit2005&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=harshalgit2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**Tools**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=harshalgit2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📁 Featured Analytics Projects
+
+### ⚽ Football Performance Analytics
+
+| | |
+|---|---|
+| **Business Problem** | Coaches and analysts needed a way to compare team and player performance across a season without digging through raw match logs. |
+| **Technologies** | Python, Pandas, SQL, Power BI |
+| **Key Insights** | Identified top-performing teams by points and goal difference, and surfaced match result trends that informed tactical discussion points. |
+| **GitHub** | [Repository](https://github.com/YOUR-USERNAME/football-performance-analytics) |
+
+<p align="center">
+<img src="images/football_dashboard.png" width="100%">
+</p>
+
+---
+
+### 📉 Customer Churn Analysis
+
+| | |
+|---|---|
+| **Business Problem** | Subscription-based business needed to identify which customers were at risk of churning and why, to prioritize retention spend. |
+| **KPIs** | Churn rate, customer lifetime value, retention rate by segment |
+| **Business Recommendations** | Focus retention offers on high-value, high-risk segments identified through the model, rather than blanket discounting. |
+| **GitHub** | [Repository](https://github.com/YOUR-USERNAME/customer-churn-analysis) |
+
+<p align="center">
+<img src="images/churn_dashboard.png" width="100%">
+</p>
+
+---
+
+### 🛍️ Customer Behavior Analysis
+
+| | |
+|---|---|
+| **Insights** | Segmented customers by purchase frequency and basket size to identify high-value shopper groups. |
+| **Business Value** | Enabled more targeted marketing spend by highlighting which segments drive the most repeat revenue. |
+| **GitHub** | [Repository](https://github.com/YOUR-USERNAME/customer-behavior-analysis) |
+
+<p align="center">
+<img src="images/customer_behavior_dashboard.png" width="100%">
+</p>
+
+---
+
+### ☕ Coffee Shop Sales Dashboard
+
+| | |
+|---|---|
+| **KPIs** | Total sales, average order value, peak sales hours, top-selling products |
+| **Business Insights** | Identified peak revenue hours and top products, supporting staffing and inventory decisions. |
+| **GitHub** | [Repository](https://github.com/YOUR-USERNAME/coffee-shop-sales-dashboard) |
+
+<p align="center">
+<img src="images/coffee_shop_dashboard.png" width="100%">
+</p>
+
+---
+
+### 🧠 Mental Health Score Prediction (MindPulse)
+
+| | |
+|---|---|
+| **Tech Stack** | Python, FastAPI, Scikit-learn, HTML/CSS/JS |
+| **Live Demo** | [MindPulse](https://YOUR-LIVE-DEMO-LINK) |
+| **GitHub** | [Repository](https://github.com/YOUR-USERNAME/mindpulse) |
+
+<p align="center">
+<img src="images/mindpulse_app.png" width="100%">
+</p>
+
+---
+
+## 📊 Dashboard Gallery
+
+### Football Analytics
+
+<p align="center">
+<img src="images/league_analysis.png" width="48%">
+<img src="images/team_analysis.png" width="48%">
+</p>
+
+<p align="center">
+<img src="images/top_10_teams_by_points.png" width="48%">
+<img src="images/match_result_distribution.png" width="48%">
+</p>
+
+### Customer Churn
+
+<p align="center">
+<img src="images/churn_by_segment.png" width="48%">
+<img src="images/churn_kpi_summary.png" width="48%">
+</p>
+
+### Coffee Shop Sales
+
+<p align="center">
+<img src="images/coffee_sales_by_hour.png" width="48%">
+<img src="images/coffee_top_products.png" width="48%">
+</p>
+
+---
+
+## 🔄 Data Analytics Workflow
+
+```
+Business Problem
+      ↓
+Data Collection (API / CSV / Database)
+      ↓
+Data Cleaning
+      ↓
+SQL Analysis
+      ↓
+Exploratory Data Analysis
+      ↓
+Feature Engineering
+      ↓
+Power BI Dashboard
+      ↓
+Business Insights
+      ↓
+Recommendations
+```
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&hide_border=true" width="48%">
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true" width="48%">
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
