@@ -1,4 +1,4 @@
-# Hi there, I'm Harshal Saudagar 👋
+# Hi there, I'm Harshal Saudagar 
 
 **Aspiring Data Analyst | SQL • Power BI • Python | Turning Data into Business Insights**
 
