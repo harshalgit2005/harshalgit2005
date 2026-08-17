@@ -233,7 +233,476 @@ Key focus areas include:
 > **"Without data, you're just another person with an opinion." — W. Edwards Deming**
 
 ---
+<!-- ========================================================= -->
+<!--                 GITHUB PROFILE README                     -->
+<!--                     PART 2 OF 4                           -->
+<!-- ========================================================= -->
 
-# Featured Projects
+# 🚀 Featured Analytics Projects
 
-⬇️ Continue to **Part 2**, where all featured projects—including the complete FMCG Supply Chain Analytics project with business context, KPIs, technologies, GitHub links, and dashboard previews—are showcased.
+The following projects demonstrate my ability to solve business problems using SQL, Python, MySQL, Power BI, APIs, and data visualization. Each project follows an end-to-end analytics workflow—from data collection and cleaning to dashboard creation and business recommendations.
+
+---
+
+# ⭐ FMCG Supply Chain Performance & Inventory Analytics
+
+## Overview
+
+An end-to-end Business Intelligence project built to simulate the analytics environment of a large FMCG organization. The project focuses on inventory optimization, supplier performance, logistics efficiency, and sales analytics by integrating live product data with synthetic operational datasets.
+
+This project demonstrates a complete analytics pipeline using Python, SQL, MySQL, and Power BI to transform raw data into actionable business insights.
+
+---
+
+## Business Problem
+
+Large FMCG companies often struggle with:
+
+- Overstocking and stock shortages
+- Inventory imbalance across warehouses
+- Supplier delivery delays
+- Rising logistics costs
+- Product wastage and damage
+- Demand forecasting challenges
+
+The objective is to build a centralized analytics solution that enables stakeholders to monitor operations, improve inventory planning, and make data-driven supply chain decisions.
+
+---
+
+## Tech Stack
+
+| Category | Technologies |
+|----------|--------------|
+| Programming | Python |
+| Database | MySQL |
+| Query Language | SQL |
+| Data Analysis | Pandas, NumPy |
+| Visualization | Power BI |
+| APIs | Open Food Facts API, FRED API |
+| Version Control | Git & GitHub |
+
+---
+
+## Data Pipeline
+
+```text
+Open Food Facts API
+          +
+      FRED API
+          │
+          ▼
+Python Data Collection
+          │
+          ▼
+Data Cleaning & ETL
+          │
+          ▼
+Processed CSV Files
+          │
+          ▼
+MySQL Database
+          │
+          ▼
+SQL Business Analysis
+          │
+          ▼
+Power BI Dashboard
+          │
+          ▼
+Business Insights
+```
+
+---
+
+## Data Model
+
+### Dimension Tables
+
+- Product
+- Supplier
+- Warehouse
+- Store
+- Date
+
+### Fact Tables
+
+- Sales
+- Inventory
+- Purchase Orders
+- Shipments
+
+---
+
+## Key Business KPIs
+
+### Sales KPIs
+
+- Total Revenue
+- Total Orders
+- Units Sold
+- Average Order Value
+- Revenue Growth
+
+---
+
+### Inventory KPIs
+
+- Inventory Value
+- Inventory Turnover
+- Days Inventory Outstanding (DIO)
+- Stockout Rate
+- Overstock Rate
+
+---
+
+### Supply Chain KPIs
+
+- Supplier Lead Time
+- Fill Rate
+- OTIF %
+- Damage Rate
+- Shipping Cost
+- Purchase Orders
+
+---
+
+## Dashboard Pages
+
+### 📊 Executive Overview
+
+Provides a high-level summary of supply chain performance.
+
+Includes:
+
+- Revenue
+- Inventory Value
+- Total Orders
+- Total Products
+- Stockout Rate
+- Monthly Sales Trend
+- Category Performance
+
+---
+
+### 📈 Sales & Demand Analytics
+
+Analyzes customer demand and sales performance.
+
+Includes:
+
+- Monthly Revenue
+- Product Sales
+- Category Sales
+- Revenue Trend
+- Quantity Sold
+- Top Products
+
+---
+
+### 📦 Inventory Analytics
+
+Tracks inventory health across warehouses.
+
+Includes:
+
+- Inventory Value
+- Inventory Turnover
+- Days Inventory Outstanding
+- Low Stock Products
+- Overstock Products
+- Warehouse Inventory
+
+---
+
+### 🚚 Supplier Performance
+
+Evaluates supplier efficiency.
+
+Includes:
+
+- Total Suppliers
+- Purchase Orders
+- Fill Rate
+- On-Time Delivery
+- Damage Rate
+- Shipping Cost
+
+---
+
+### 📋 Operational KPIs
+
+Provides operational monitoring.
+
+Includes:
+
+- OTIF
+- Average Lead Time
+- Logistics Cost
+- Damage %
+- Fill Rate
+- Inventory Health
+
+---
+
+## Business Value
+
+This project helps answer important business questions such as:
+
+- Which warehouses carry excess inventory?
+- Which products frequently experience stockouts?
+- Which suppliers consistently deliver on time?
+- How much is logistics costing the business?
+- Which product categories generate the highest revenue?
+- Which suppliers have the highest damage rates?
+- Which warehouses require replenishment?
+
+---
+
+## Business Recommendations
+
+- Improve replenishment planning for fast-moving products.
+- Reduce inventory holding costs by identifying overstocked items.
+- Prioritize high-performing suppliers for future procurement.
+- Monitor supplier damage rates to reduce product losses.
+- Optimize warehouse inventory distribution.
+- Improve forecasting using historical sales trends.
+
+---
+
+## Dashboard Preview
+
+> Save your screenshots inside:
+
+```text
+images/
+└── fmcg/
+    ├── executive-overview.jpeg
+    ├── sales-demand.jpeg
+    ├── inventory.jpeg
+    ├── supplier.jpeg
+    └── operational-kpis.jpeg
+```
+
+### Executive Overview
+
+![](images/fmcg/executive-overview.jpeg)
+
+---
+
+### Sales & Demand Analytics
+
+![](images/fmcg/sales-demand.jpeg)
+
+---
+
+### Inventory Analytics
+
+![](images/fmcg/inventory.jpeg)
+
+---
+
+### Supplier Performance
+
+![](images/fmcg/supplier.jpeg)
+
+---
+
+### Operational KPIs
+
+![](images/fmcg/operational-kpis.jpeg)
+
+---
+
+## GitHub Repository
+
+**Repository**
+
+https://github.com/harshalgit2005/fmcg-supply-chain-performance-analytics
+
+---
+
+# ⚽ Football Performance Analytics
+
+## Overview
+
+An end-to-end analytics project focused on football performance analysis using match data collected through APIs. The project explores team performance, goal-scoring trends, league competitiveness, and season statistics through SQL analysis and interactive Power BI dashboards.
+
+---
+
+## Business Problem
+
+Sports organizations require data-driven insights to evaluate team performance, identify strengths and weaknesses, and monitor league-wide trends across multiple competitions.
+
+---
+
+## Technologies
+
+- Python
+- SQL
+- MySQL
+- Power BI
+- Football-Data API
+
+---
+
+## Business KPIs
+
+- Total Matches
+- Total Goals
+- Home Wins
+- Away Wins
+- Draws
+- Goals per Match
+- Team Performance
+- League Comparison
+
+---
+
+## Dashboard Preview
+
+```text
+images/
+└── football/
+    ├── executive-dashboard.jpeg
+    ├── team-analysis.jpeg
+    └── league-analysis.jpeg
+```
+
+### Executive Dashboard
+
+![](images/football/executive-dashboard.jpeg)
+
+---
+
+### Team Performance Dashboard
+
+![](images/football/team-analysis.jpeg)
+
+---
+
+### League Analysis Dashboard
+
+![](images/football/league-analysis.jpeg)
+
+---
+
+## GitHub Repository
+
+https://github.com/harshalgit2005/football-analytics
+
+---
+
+# 📉 Customer Churn Analysis
+
+### Objective
+
+Identify customers at risk of churn and uncover the key factors influencing customer retention.
+
+### Technologies
+
+- SQL
+- Python
+- Pandas
+- Power BI
+
+### Business KPIs
+
+- Churn Rate
+- Retention Rate
+- Customer Lifetime Value
+- Active Customers
+
+### Business Value
+
+Help businesses improve customer retention by identifying high-risk customer segments and supporting targeted retention campaigns.
+
+**Repository**
+
+https://github.com/harshalgit2005/customer-churn-analysis-sql-python
+
+---
+
+# 🛍 Customer Behavior Analysis
+
+### Objective
+
+Analyze purchasing behavior to identify high-value customers and optimize marketing strategies.
+
+### Technologies
+
+- SQL
+- Python
+- Power BI
+
+### Business Value
+
+- Customer Segmentation
+- Purchase Pattern Analysis
+- Sales Insights
+- Customer Value Analysis
+
+**Repository**
+
+https://github.com/harshalgit2005/customer-behavior-analysis
+
+---
+
+# 🧠 MindPulse – Mental Health Score Prediction
+
+### Overview
+
+A machine learning application that predicts mental health scores using lifestyle and behavioral indicators.
+
+### Technologies
+
+- Python
+- FastAPI
+- Scikit-learn
+- HTML
+- CSS
+- JavaScript
+
+### Features
+
+- Prediction API
+- Interactive Web Interface
+- Machine Learning Model
+- Real-Time Predictions
+
+**Live Demo**
+
+https://mental-health-score-prediction-1-jdjx.onrender.com/
+
+**Repository**
+
+https://github.com/harshalgit2005/mental-health-score-prediction
+
+---
+
+# 🤖 AI Personality Chatbot
+
+### Overview
+
+A conversational AI chatbot capable of responding in multiple personalities such as Funny, Serious, Professional, and Sarcastic.
+
+### Technologies
+
+- Python
+- LangChain
+- Streamlit
+- Groq API
+
+### Features
+
+- Multiple AI Personalities
+- Interactive UI
+- Context-Aware Responses
+- Prompt Engineering
+
+**Repository**
+
+https://github.com/harshalgit2005/ai-personality-chatbot
+
+---
+
+➡️ **Continue to Part 3**, which includes the Dashboard Gallery, Analytics Workflow, GitHub Statistics, and Activity Graph.
