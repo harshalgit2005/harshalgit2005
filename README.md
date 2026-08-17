@@ -55,11 +55,11 @@ In this section I list my data analytics projects, briefly describing the techno
 
 | Executive Overview | Sales & Demand Analytics |
 |---|---|
-| ![Executive Overview](images/fmcg/executive-overview.jpeg) | ![Sales & Demand](images/fmcg/sales-demand.jpeg) |
+| ![Executive Overview](https://raw.githubusercontent.com/harshalgit2005/harshalgit2005/main/images/fmcg/executive-overview.jpeg) | ![Sales & Demand](https://raw.githubusercontent.com/harshalgit2005/harshalgit2005/main/images/fmcg/sales-demand.jpeg) |
 
 | Inventory Analytics | Supplier Performance |
 |---|---|
-| ![Inventory Analytics](images/fmcg/inventory.jpeg) | ![Supplier Performance](images/fmcg/supplier.jpeg) |
+| ![Inventory Analytics](https://raw.githubusercontent.com/harshalgit2005/harshalgit2005/main/images/fmcg/inventory.jpeg) | ![Supplier Performance](https://raw.githubusercontent.com/harshalgit2005/harshalgit2005/main/images/fmcg/supplier.jpeg) |
 
 *Operational KPIs dashboard is also available in the repository.*
 
