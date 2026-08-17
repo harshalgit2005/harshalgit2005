@@ -67,11 +67,11 @@ An end-to-end Business Intelligence project simulating the analytics environment
 
 | Executive Overview | Sales & Demand Analytics |
 |---|---|
-| ![Executive Overview](images/fmcg/executive overview.jpeg) | ![Sales & Demand](images/fmcg/sales and demand analytics.jpeg) |
+| ![Executive Overview](images/fmcg/executive-overview.jpeg) | ![Sales & Demand](images/fmcg/sales-demand.jpeg) |
 
 | Inventory Analytics | Supplier Performance |
 |---|---|
-| ![Inventory Analytics](images/fmcg/inventory analytics.jpeg) | ![Supplier Performance](images/fmcg/supplier performance.jpeg) |
+| ![Inventory Analytics](images/fmcg/inventory.jpeg) | ![Supplier Performance](images/fmcg/supplier.jpeg) |
 
 *Operational KPIs dashboard is also available in the repository.*
 
