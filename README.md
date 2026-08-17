@@ -704,5 +704,316 @@ A conversational AI chatbot capable of responding in multiple personalities such
 https://github.com/harshalgit2005/ai-personality-chatbot
 
 ---
+<!-- ========================================================= -->
+<!--                 GITHUB PROFILE README                     -->
+<!--                     PART 3 OF 4                           -->
+<!-- ========================================================= -->
 
-➡️ **Continue to Part 3**, which includes the Dashboard Gallery, Analytics Workflow, GitHub Statistics, and Activity Graph.
+# 📊 Dashboard Gallery
+
+The following dashboards demonstrate my ability to transform raw datasets into interactive reports that support data-driven business decisions.
+
+---
+
+# 🚚 FMCG Supply Chain Analytics Dashboards
+
+## 📊 Executive Overview
+
+A high-level business dashboard providing an overview of organizational performance.
+
+**Key KPIs**
+
+- Revenue
+- Total Orders
+- Inventory Value
+- Products
+- Warehouses
+- Stockout Rate
+
+![](images/fmcg/executive-overview.jpeg)
+
+---
+
+## 📈 Sales & Demand Analytics
+
+Designed to understand demand trends and revenue performance.
+
+**Insights**
+
+- Monthly Revenue
+- Product Sales
+- Category Sales
+- Sales by Region
+- Revenue Growth
+- Top Selling Products
+
+![](images/fmcg/sales-demand.jpeg)
+
+---
+
+## 📦 Inventory Analytics
+
+Monitors inventory health across warehouses.
+
+**Insights**
+
+- Inventory Turnover
+- Days Inventory Outstanding
+- Inventory Value
+- Warehouse Distribution
+- Low Stock Products
+- Overstock Products
+
+![](images/fmcg/inventory.jpeg)
+
+---
+
+## 🚚 Supplier Performance
+
+Measures procurement efficiency and supplier reliability.
+
+**KPIs**
+
+- Total Suppliers
+- Purchase Orders
+- Average Fill Rate
+- On-Time Delivery %
+- Damage Rate
+- Shipping Cost
+
+![](images/fmcg/supplier.jpeg)
+
+---
+
+## 📋 Operational KPIs
+
+Operational monitoring dashboard for supply chain performance.
+
+**KPIs**
+
+- OTIF
+- Lead Time
+- Fill Rate
+- Damage Rate
+- Logistics Cost
+- Inventory Health
+
+![](images/fmcg/operational-kpis.jpeg)
+
+---
+
+# ⚽ Football Performance Analytics Dashboards
+
+## Executive Dashboard
+
+Business summary of football competitions.
+
+![](images/football/executive-dashboard.jpeg)
+
+---
+
+## Team Performance Dashboard
+
+Performance comparison across teams.
+
+![](images/football/team-analysis.jpeg)
+
+---
+
+## League Analysis Dashboard
+
+League competitiveness and scoring trends.
+
+![](images/football/league-analysis.jpeg)
+
+---
+
+# 📈 Data Analytics Workflow
+
+Every analytics project follows a structured end-to-end workflow.
+
+```text
+Business Problem
+        │
+        ▼
+Requirement Gathering
+        │
+        ▼
+Data Collection
+(API / CSV / Database)
+        │
+        ▼
+Data Cleaning
+(Python • Pandas)
+        │
+        ▼
+Exploratory Data Analysis
+        │
+        ▼
+Data Modeling
+(MySQL)
+        │
+        ▼
+SQL Analysis
+        │
+        ▼
+Feature Engineering
+        │
+        ▼
+Power BI Dashboard
+        │
+        ▼
+Business Insights
+        │
+        ▼
+Business Recommendations
+```
+
+---
+
+# 🧩 Analytics Lifecycle
+
+```text
+Identify Business Problem
+
+        ↓
+
+Collect Data
+
+        ↓
+
+Validate Data Quality
+
+        ↓
+
+Clean & Transform Data
+
+        ↓
+
+Store in Database
+
+        ↓
+
+Analyze using SQL
+
+        ↓
+
+Build KPIs
+
+        ↓
+
+Design Dashboard
+
+        ↓
+
+Generate Insights
+
+        ↓
+
+Recommend Actions
+
+        ↓
+
+Support Business Decisions
+```
+
+---
+
+# 💼 Core Competencies
+
+| Analytics | Business Intelligence | Data Engineering |
+|------------|----------------------|------------------|
+| SQL | Power BI | ETL |
+| Python | Dashboard Design | Data Cleaning |
+| Pandas | KPI Development | Data Modeling |
+| NumPy | DAX | APIs |
+| EDA | Storytelling | MySQL |
+
+---
+
+# 📌 Business Domains
+
+Throughout my projects I have worked on analytics use cases in the following domains.
+
+- Supply Chain Analytics
+- Inventory Analytics
+- Retail Analytics
+- Sales Analytics
+- Customer Analytics
+- Sports Analytics
+- Predictive Analytics
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=harshalgit2005&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalgit2005&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshalgit2005&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=harshalgit2005&theme=algolia&margin-w=10&margin-h=10"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshalgit2005&theme=github-compact"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+I believe continuous learning is essential in the field of data analytics.
+
+Current focus areas include:
+
+- Advanced SQL
+- DAX
+- Power BI Service
+- Microsoft Fabric
+- Power Query
+- Data Warehousing
+- Supply Chain Analytics
+- Forecasting Techniques
+- Dashboard Storytelling
+- Business KPI Design
+
+---
+
+# 🎯 Career Objective
+
+My goal is to begin my career as a **Data Analyst**, where I can apply analytical thinking, SQL, Python, and Power BI to solve real business problems while continuously learning from experienced teams.
+
+I enjoy building projects that simulate real-world business scenarios and demonstrate practical analytics skills rather than focusing only on algorithms.
+
+---
+
+> **"Data is a valuable asset only when it is transformed into actionable business insights."**
+
+---
+
+➡️ Continue to **Part 4** for the Connect section, profile links, resume, and professional footer.
