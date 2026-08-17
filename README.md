@@ -1015,5 +1015,181 @@ I enjoy building projects that simulate real-world business scenarios and demons
 > **"Data is a valuable asset only when it is transformed into actionable business insights."**
 
 ---
+<!-- ========================================================= -->
+<!--                 GITHUB PROFILE README                     -->
+<!--                     PART 4 OF 4                           -->
+<!-- ========================================================= -->
 
-➡️ Continue to **Part 4** for the Connect section, profile links, resume, and professional footer.
+# 📜 Certifications & Achievements
+
+### 🏅 HackerRank
+
+- ⭐ **5-Star Gold Badge in SQL**
+- Solved challenges covering:
+  - Joins
+  - CTEs
+  - Window Functions
+  - Aggregations
+  - Subqueries
+  - Query Optimization
+
+🔗 **Profile**
+
+https://www.hackerrank.com/profile/harshalvalmiksa1
+
+---
+
+# 📂 Repository Highlights
+
+| Repository | Description | Technologies |
+|------------|-------------|--------------|
+| 🚚 FMCG Supply Chain Performance & Inventory Analytics | End-to-end supply chain analytics project covering inventory, procurement, logistics, and sales | Python, SQL, MySQL, Power BI |
+| ⚽ Football Performance Analytics | Football analytics using API data and Power BI dashboards | Python, SQL, MySQL, Power BI |
+| 📉 Customer Churn Analysis | Customer retention and churn analytics | SQL, Python |
+| 🛍 Customer Behavior Analysis | Customer segmentation and purchasing behavior | SQL, Python |
+| 🧠 MindPulse | Machine Learning mental health prediction app | Python, FastAPI |
+| 🤖 AI Personality Chatbot | Multi-personality conversational AI | LangChain, Streamlit |
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/harshalgit2005">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/harshalvalmiksa1">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+</p>
+
+---
+
+# 💼 Open to Opportunities
+
+I am actively seeking **entry-level opportunities** in:
+
+- Data Analyst
+- Business Analyst
+- BI Analyst
+- Reporting Analyst
+- MIS Analyst
+- Junior Data Analyst
+- SQL Developer (Analytics-focused)
+
+I am particularly interested in roles where I can work with:
+
+- SQL
+- Python
+- Power BI
+- Data Visualization
+- Dashboard Development
+- Business Intelligence
+- Reporting Automation
+- Data Cleaning & Transformation
+
+---
+
+# 💡 What You'll Find in My GitHub
+
+✔ End-to-end analytics projects
+
+✔ SQL business case studies
+
+✔ Power BI dashboards
+
+✔ Python data analysis
+
+✔ ETL workflows
+
+✔ API-based projects
+
+✔ Real-world datasets
+
+✔ Business recommendations
+
+✔ Interactive visualizations
+
+✔ Documentation and project READMEs
+
+---
+
+# 📈 Analytics Philosophy
+
+I believe effective analytics is more than creating charts—it's about understanding business problems, asking the right questions, validating data, building meaningful KPIs, and communicating insights that support better decisions.
+
+My projects emphasize practical business scenarios and measurable outcomes, reflecting how analytics is applied in real organizations.
+
+---
+
+# 🛠 Preferred Analytics Workflow
+
+```text
+Business Problem
+        │
+        ▼
+Requirement Analysis
+        │
+        ▼
+Data Collection
+        │
+        ▼
+Data Cleaning
+        │
+        ▼
+Data Modeling
+        │
+        ▼
+SQL Analysis
+        │
+        ▼
+EDA
+        │
+        ▼
+Dashboard Development
+        │
+        ▼
+Business Insights
+        │
+        ▼
+Recommendations
+```
+
+---
+
+# 🌟 Thank You for Visiting
+
+If you find my projects useful or interesting:
+
+⭐ Star the repositories
+
+🍴 Fork them
+
+💬 Share your feedback
+
+🤝 Connect with me on LinkedIn
+
+---
+
+<p align="center">
+
+### "Turning Data into Business Insights."
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
+
+</p>
