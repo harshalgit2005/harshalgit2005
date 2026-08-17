@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Harshal Saudagar 👋</h1>
+<h1 align="center">Hi, I'm Harshal Saudagar</h1>
 <h3 align="center">Aspiring Data Analyst | SQL • Python • Power BI</h3>
 
 <p align="center">
@@ -14,13 +14,15 @@
 
 ## About Me
 
-Aspiring Data Analyst who turns raw data into business insights using **SQL, Python, and Power BI**. I build end-to-end analytics projects — from data collection and cleaning to dashboards and recommendations — that simulate real business workflows.
+I'm an aspiring Data Analyst focused on turning raw data into business insights using SQL, Python, and Power BI. My projects follow an end-to-end analytics workflow — data collection, cleaning, modeling, SQL analysis, dashboard design, and business recommendations — built to simulate how analytics teams actually operate.
 
-**Currently sharpening:** Advanced SQL · Power BI/DAX · Data Modeling · Business Intelligence · Supply Chain & Sales Analytics
+I'm particularly interested in supply chain, retail, and sales analytics, and I enjoy projects that answer a specific business question rather than just displaying charts.
+
+**Currently building on:** Advanced SQL, Power BI/DAX, data modeling, business intelligence, and forecasting techniques.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
@@ -30,55 +32,120 @@ Aspiring Data Analyst who turns raw data into business insights using **SQL, Pyt
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 </p>
 
-**Core skills:** SQL (Joins, CTEs, Window Functions) · Python (Pandas, NumPy) · Power BI & DAX · MySQL · REST APIs · Data Modeling · KPI Design · Git/GitHub
+| Category | Skills |
+|---|---|
+| Languages & Query | Python, SQL |
+| Databases | MySQL, PostgreSQL, SQLite |
+| BI & Visualization | Power BI, DAX, Excel, Data Modeling |
+| Data Analysis | Pandas, NumPy, EDA |
+| Machine Learning | Scikit-learn |
+| APIs | REST APIs (Open Food Facts, Football-Data, FRED) |
+| Tools | Git, GitHub, Jupyter, VS Code |
 
 ---
 
-## 🏅 Achievements
+## Achievements
 
-⭐ **HackerRank 5-Star Gold Badge in SQL** — [View Profile](https://www.hackerrank.com/profile/harshalvalmiksa1)
-
----
-
-## 🚀 Featured Projects
-
-### 🚚 [FMCG Supply Chain Performance & Inventory Analytics](https://github.com/harshalgit2005/fmcg-supply-chain-performance-analytics)
-End-to-end BI project analyzing inventory, supplier performance, and logistics for a simulated FMCG business.
-**Stack:** Python · SQL · MySQL · Power BI · Open Food Facts API · FRED API
-**Highlights:** Executive Overview, Sales & Demand, Inventory Health, Supplier Performance, and Operational KPI dashboards (OTIF, fill rate, DIO, stockout rate).
-
-### ⚽ [Football Performance Analytics](https://github.com/harshalgit2005/football-analytics)
-Match data analysis exploring team performance, scoring trends, and league comparisons via API-sourced data.
-**Stack:** Python · SQL · MySQL · Power BI · Football-Data API
-
-### 📉 [Customer Churn Analysis](https://github.com/harshalgit2005/customer-churn-analysis-sql-python)
-Identified at-risk customers and key churn drivers to support targeted retention strategies.
-**Stack:** SQL · Python · Pandas · Power BI
-
-### 🛍 [Customer Behavior Analysis](https://github.com/harshalgit2005/customer-behavior-analysis)
-Segmented customers and analyzed purchase patterns to inform marketing strategy.
-**Stack:** SQL · Python · Power BI
-
-### 🧠 [MindPulse – Mental Health Score Prediction](https://github.com/harshalgit2005/mental-health-score-prediction)
-ML web app predicting mental health scores from lifestyle indicators. [Live Demo](https://mental-health-score-prediction-1-jdjx.onrender.com/)
-**Stack:** Python · FastAPI · Scikit-learn · HTML/CSS/JS
-
-### 🤖 [AI Personality Chatbot](https://github.com/harshalgit2005/ai-personality-chatbot)
-Conversational AI with switchable personality modes (Funny, Serious, Professional, Sarcastic).
-**Stack:** Python · LangChain · Streamlit · Groq API
+**HackerRank 5-Star Gold Badge in SQL** — solved problems across joins, window functions, CTEs, subqueries, and query optimization.
+[View profile](https://www.hackerrank.com/profile/harshalvalmiksa1)
 
 ---
 
-## 📈 Analytics Workflow
+## Featured Projects
+
+### FMCG Supply Chain Performance & Inventory Analytics
+
+An end-to-end Business Intelligence project simulating the analytics environment of an FMCG organization — covering inventory optimization, supplier performance, logistics efficiency, and sales analytics.
+
+**Stack:** Python, SQL, MySQL, Power BI, Open Food Facts API, FRED API
+
+**Key KPIs tracked:** Revenue, Inventory Turnover, Days Inventory Outstanding, Stockout Rate, OTIF %, Fill Rate, Supplier Lead Time, Damage Rate
+
+**Repository:** https://github.com/harshalgit2005/fmcg-supply-chain-performance-analytics
+
+**Dashboard previews:**
+
+| Executive Overview | Sales & Demand Analytics |
+|---|---|
+| ![Executive Overview](images/fmcg/executive-overview.jpeg) | ![Sales & Demand](images/fmcg/sales-demand.jpeg) |
+
+| Inventory Analytics | Supplier Performance |
+|---|---|
+| ![Inventory Analytics](images/fmcg/inventory.jpeg) | ![Supplier Performance](images/fmcg/supplier.jpeg) |
+
+*Operational KPIs dashboard is also available in the repository.*
+
+---
+
+### Football Performance Analytics
+
+Match-level analytics exploring team performance, goal-scoring trends, and league competitiveness using API-sourced football data.
+
+**Stack:** Python, SQL, MySQL, Power BI, Football-Data API
+
+**Key KPIs tracked:** Total Matches, Goals per Match, Home/Away Wins, Team & League Comparison
+
+**Repository:** https://github.com/harshalgit2005/football-analytics
+
+**Dashboard preview:**
+
+![Executive Dashboard](images/football/executive-dashboard.jpeg)
+
+---
+
+### Customer Churn Analysis
+
+Identified customers at risk of churn and the key factors driving retention, using SQL for analysis and Power BI for reporting. Findings support targeted retention campaigns.
+
+**Stack:** SQL, Python, Pandas, Power BI
+**KPIs:** Churn Rate, Retention Rate, Customer Lifetime Value, Active Customers
+
+**Repository:** https://github.com/harshalgit2005/customer-churn-analysis-sql-python
+
+---
+
+### Customer Behavior Analysis
+
+Segmented customers and analyzed purchasing patterns to identify high-value segments and inform marketing strategy.
+
+**Stack:** SQL, Python, Power BI
+
+**Repository:** https://github.com/harshalgit2005/customer-behavior-analysis
+
+---
+
+### MindPulse — Mental Health Score Prediction
+
+A machine learning web application that predicts mental health scores from lifestyle and behavioral indicators, served through a FastAPI backend with a real-time prediction interface.
+
+**Stack:** Python, FastAPI, Scikit-learn, HTML, CSS, JavaScript
+
+**Live demo:** https://mental-health-score-prediction-1-jdjx.onrender.com/
+**Repository:** https://github.com/harshalgit2005/mental-health-score-prediction
+
+---
+
+### AI Personality Chatbot
+
+A conversational AI chatbot that responds in different personality modes — Funny, Serious, Professional, and Sarcastic — with context-aware conversation handling.
+
+**Stack:** Python, LangChain, Streamlit, Groq API
+
+**Repository:** https://github.com/harshalgit2005/ai-personality-chatbot
+
+---
+
+## Analytics Workflow
 
 ```
-Business Problem → Data Collection → Cleaning (Python/Pandas) → Data Modeling (MySQL)
-→ SQL Analysis → EDA → Power BI Dashboard → Insights → Recommendations
+Business Problem → Data Collection → Data Cleaning (Python/Pandas)
+→ Data Modeling (MySQL) → SQL Analysis → EDA → Power BI Dashboard
+→ Business Insights → Recommendations
 ```
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=harshalgit2005&show_icons=true&theme=github_dark&hide_border=true"/>
@@ -87,17 +154,15 @@ Business Problem → Data Collection → Cleaning (Python/Pandas) → Data Model
 
 ---
 
-## 🎯 Career Objective
+## Career Objective
 
-Looking to start my career as a **Data Analyst**, applying SQL, Python, and Power BI to solve real business problems and grow alongside an experienced team.
+I'm looking to begin my career as a Data Analyst, applying SQL, Python, and Power BI to solve real business problems and grow within an experienced analytics team.
 
-## 💼 Open To
-
-Data Analyst · Business Analyst · BI Analyst · Reporting Analyst · Junior Data Analyst
+**Open to:** Data Analyst · Business Analyst · BI Analyst · Reporting Analyst · Junior Data Analyst
 
 ---
 
-## 🤝 Connect
+## Connect
 
 <p align="center">
 <a href="https://github.com/harshalgit2005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
